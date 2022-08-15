@@ -15,4 +15,4 @@
  6. Case_Fatality_Ratio :  Number that measures ratio of deaths between confirmed cases 
  7. Last_Update : Date of Collecting
 
-<img  src = 'https://th.bing.com/th/id/OIP.DaNWN93wCEoZgkuWv7ypjwHaD8?pid=ImgDet&rs=1'  width = 900 heigth = 500>
+<img  src = 'https://th.bing.com/th/id/OIP.DaNWN93wCEoZgkuWv7ypjwHaD8?pid=ImgDet&rs=1'  width = 800 heigth = 400>
