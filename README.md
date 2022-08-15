@@ -1,6 +1,6 @@
-# **Covid-19 Pandemic Data Collecting ⛔**
+# **Covid-19 Pandemic Data Collecting ⚠**
 
-### Covid Pandemic in Countries
+### Covid Pandemic in Countries ⛔
 
 1. Covid is an acute disease in humans caused by a coronavirus, which is characterized mainly by fever and cough and is capable of progressing to severe symptoms and in some cases death, especially in older people and those with underlying health conditions. It was originally identified in China in 2019 and became pandemic in 2020
 
