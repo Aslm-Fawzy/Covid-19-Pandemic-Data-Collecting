@@ -1,4 +1,4 @@
-# **Covid-19 Pandemic Data Collecting**
+# **Covid-19 Pandemic Data Collecting ⛔**
 
 ### Covid Pandemic in Countries
 
